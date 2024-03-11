@@ -1,0 +1,91 @@
+body {
+    font-family: Montserrat;
+    background-image: url(./images/andrew-ridley-jR4Zf-riEjI-unsplash.jpg);
+    background-size: cover;
+}
+#header{
+    font-family:Julius Sans One;
+    text-align: center;
+    font-size: larger;
+    position: relative;
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+#aboutme{
+    background-color:aliceblue;
+    border: 10px solid #769fa5;
+    border-style: double;
+    text-align: center;
+    margin: 30px;
+    color: teal;
+    font-size: larger;
+    border-radius: 15px;
+    width: 1300px;
+    margin:auto;
+    background-image: url(./images/20perc.png);
+    background-size: contain;
+    font-weight: 400;
+    }
+#aboutme > h4 {
+    font-family: Chakra Petch;
+    font-size: 25px;
+}
+.Moreinfo {
+    float:right;
+    border: 2px solid;
+    border-style:dotted;
+    background-color:#c9c3bd;
+    font-style: oblique;
+    padding-left: 18px;
+    width: 500px;
+    position: absolute;
+    top:480px;
+    left: 1070px;
+}
+#Future {
+    padding-left: 370px;
+    padding-right: 450px;
+    font-size: larger;
+    font-weight: 430;
+}
+.Contacts {
+    border: 1px solid;
+    border-image: fill;
+    background-color:aliceblue;;
+    border-style: none;
+    text-align: center;
+    position: fixed;
+    bottom:0px;
+    margin-left: 750px;
+    margin-right: auto;
+    border-style: dashed;
+    background-image: url(./images/cont30.png);
+    background-size: cover;
+    flood-opacity: 0.5;
+    font-weight: 500;
+
+}
+img {
+    display:block;
+    width:350px;
+    height:300px; 
+    align-content: end;
+    padding-left: 370px;
+}
+.animal p {
+    text-align: left;
+    margin-top: 40px;
+    padding-left: 370px;
+    font-size: larger;
+}
+#aboutme >img {
+
+}
+#photo {
+    position: absolute;
+    top: 55px;
+    right: 25px;
+}
